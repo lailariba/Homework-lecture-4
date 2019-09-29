@@ -1,0 +1,33 @@
+@import url ('https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet');
+@import url ('https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet');
+@import url ('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet');
+@import url ('https://fonts.googleapis.com/css?family=Vibes&display=swap" rel="stylesheet');
+
+body
+{
+	font-family: "Roboto" , sans-serif;
+	background-color: #82b2b8;
+}
+p
+{
+	font-family: "Montserrat",sans-serif;
+	color: #005386;
+}
+header
+{
+	font-family: "Playfair Display", serif;
+	#003a8e;
+}
+table
+{
+	font-family: "Vibes",cursive;
+	#041a1c;
+}
+table-header
+{
+	font-style: bold;
+}
+table-data
+{
+	font-style:italic;
+}
